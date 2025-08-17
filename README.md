@@ -1,3 +1,4 @@
 # ryzen
 This is my first repo
-Author - Zawed Mullick
+<br>
+<h3>Author - Zawed Mullick</h3>
